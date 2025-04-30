@@ -97,9 +97,8 @@ aimidterm/
 ├── style.css                # Styling for map and layout
 ├── script.js                # Main logic for selection, routing, drawing
 ├── astar.js                 # JavaScript implementation of A* algorithm
-├── data/
-│   ├── graph-data.json      # Graph with nodes and weighted edges
-│   └── mugla_districts.json # Districts with coordinates and node IDs
+├── graph-data.json          # Graph with nodes and weighted edges
+├── mugla_districts.json     # Districts with coordinates and node IDs
 ├── README.md                # Project info and instructions
 ```
 
